@@ -1,0 +1,50 @@
+body {
+    background-color: lightblue;
+}
+.user {
+    color: white;
+    font-size: 20px;
+}
+
+.pass {
+    color: white;
+    font-size: 20px;
+}
+.title {
+    color: white;
+}
+.btn {
+    color: white;
+    font-size: x-large;
+    background-color: indigo;
+    border: 0ch;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+}
+.passInput {
+    background-color: white;
+    height: 40px;
+    width: 250px;
+    border-radius: 5px;
+    border: 0px;
+    padding-left: 10px;
+}
+.userInput {
+    background-color: white;
+    height: 40px;
+    width: 250px;
+    border-radius: 5px;
+    border: 0px;
+    padding-left: 10px;
+}
+.div1 {
+    width: 350px;
+    height: 400px;
+    background-color: black;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-right: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
