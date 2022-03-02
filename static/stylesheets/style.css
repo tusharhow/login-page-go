@@ -1,5 +1,9 @@
 body {
-    background-color: lightblue;
+    min-height: 100%;
+    background-image: url("/static/bg.jpg"),
+        linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3));
+
+    background-size: cover;
 }
 .user {
     color: white;
@@ -41,7 +45,7 @@ body {
 .div1 {
     width: 350px;
     height: 400px;
-    background-color: black;
+    background-color: rgb(95, 158, 160);
     padding-left: 40px;
     padding-top: 10px;
     padding-right: 20px;
